@@ -1,0 +1,10 @@
+title: "Trung tâm thú y"
+description: "Website Trung tâm thú y"
+
+exclude:
+  - frontend/node_modules
+  - backend/node_modules
+  - frontend/package.json
+  - frontend/package-lock.json
+  - backend/package.json
+  - backend/package-lock.json
